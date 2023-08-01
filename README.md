@@ -1,5 +1,13 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=header&text=WELCOME!&fontColor=d6ace6&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=WELCOME!&fontColor=0d096c&fontSize=50" />
+  
+  <div align=center>
+  😀Nice to meet you. Welcome to my GitHub😄 <p />
+  I'll show you how I'm improving❤️‍🔥
+    
+  <br />
+  <br />
+  
 <div align=center>
 <h2> 📚 Technology Stack 📚 </h2> <br />
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
