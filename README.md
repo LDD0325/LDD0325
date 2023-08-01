@@ -1,4 +1,6 @@
 <div align=center>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=header&text=WELCOME!&fontColor=d6ace6&fontSize=50" />
+<div align=center>
 <h2> 📚 Technology Stack 📚 </h2> <br />
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c#A8B9CC&logoColor=white">
